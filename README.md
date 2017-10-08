@@ -16,5 +16,5 @@ An online attendance managemet system developed using PHP, HTML, CSS, BOOTSTRAP 
     6. Feature to view the registered students, attendance on selected date and between the selected dates. 
     7. Ability to change the ID and reset password.
 
-**Note: All the source codes are available in compressed file named Attendance.Management.System.by.Tek.Raj.rar **
+
    
